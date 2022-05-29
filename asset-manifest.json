@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/calendar-picker/static/css/main.07dbebb1.css",
+    "main.js": "/calendar-picker/static/js/main.144d65ae.js",
+    "index.html": "/calendar-picker/index.html",
+    "main.07dbebb1.css.map": "/calendar-picker/static/css/main.07dbebb1.css.map",
+    "main.144d65ae.js.map": "/calendar-picker/static/js/main.144d65ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07dbebb1.css",
+    "static/js/main.144d65ae.js"
+  ]
+}
