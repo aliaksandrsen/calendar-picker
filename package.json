@@ -2,7 +2,6 @@
   "name": "calendar-picker",
   "homepage": "https://aliaksandrsen.github.io/calendar-picker",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "cra-template": "1.1.2",
     "react": "^17.0.1",
